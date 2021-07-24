@@ -1,2 +1,2 @@
-# Wireless-Power-Transmission
+# Wireless Power Transmission
 Design Engineering Project
